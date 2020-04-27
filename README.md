@@ -1,7 +1,5 @@
 # 2019 Spring Tour Subsidy Crawler
 
----
-
 **This code is to crawling the data from the webpage of 2019 spring tour subsidy by using python 3.7**
 
 **Files description below**
