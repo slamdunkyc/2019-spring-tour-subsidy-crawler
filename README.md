@@ -5,6 +5,9 @@
 **Files description below**
 
 1. Gather total subsidy application from each hotel.
+
 2. Gather application detail from each order and save to separate spreadsheet.
+
 3. Gather application detail and save to one spreadsheet.
+
 4. Statistics on the number of applicants, gender and born place.
